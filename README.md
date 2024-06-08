@@ -26,6 +26,5 @@ Solution: To tackle this challenge I have used a function in PHP named str_repla
 Future improvement scope in this project:
 I will be shifting this website onto some newer tech stack like MERN in future so that I could add more functionalities to that project.
 
-
-![alt text](php.png)
-![alt text](<bootstrap logo.jpg>)
+![alt text](<bootstrap logo-1.jpg>)
+![alt text](php-1.png)
